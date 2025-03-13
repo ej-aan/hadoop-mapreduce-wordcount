@@ -6,10 +6,11 @@ Digitalskola hadoop homework
 Proyek ini adalah implementasi sederhana dari **MapReduce** menggunakan **Hadoop Streaming** untuk menghitung frekuensi kata (word count) dalam teks **Pembukaan UUD 1945**.
 
 ## File yang Disertakan
-1. **`mapper.py`**: Script Python untuk mapper.
-2. **`reducer.py`**: Script Python untuk reducer.
-3. **`wordcount.txt`**: File input teks (Pembukaan UUD 1945).
-4. **`output_word_count.txt`**: File output hasil MapReduce (word count).
+1. **`main.ipynb`**: File notebook yang berisi seluruh proses pengerjaan.
+2. **`mapper.py`**: Script Python untuk mapper.
+3. **`reducer.py`**: Script Python untuk reducer.
+4. **`wordcount.txt`**: File input teks (Pembukaan UUD 1945).
+5. **`output_word_count.txt`**: File output hasil MapReduce (word count).
 
 ## Cara Menjalankan Proyek
 1. **Persiapan**:
